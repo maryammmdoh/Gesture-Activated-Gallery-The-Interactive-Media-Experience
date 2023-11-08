@@ -1,0 +1,9 @@
+D:\MSA\MSA\Semester 7\CS484 - Human Computer Interaction - Dr.Ayman\Project\Code\C#\Socket\obj\Debug\Socket.csproj.AssemblyReference.cache
+D:\MSA\MSA\Semester 7\CS484 - Human Computer Interaction - Dr.Ayman\Project\Code\C#\Socket\obj\Debug\Socket.Properties.Resources.resources
+D:\MSA\MSA\Semester 7\CS484 - Human Computer Interaction - Dr.Ayman\Project\Code\C#\Socket\obj\Debug\Socket.csproj.GenerateResource.cache
+D:\MSA\MSA\Semester 7\CS484 - Human Computer Interaction - Dr.Ayman\Project\Code\C#\Socket\obj\Debug\Socket.csproj.CoreCompileInputs.cache
+D:\MSA\MSA\Semester 7\CS484 - Human Computer Interaction - Dr.Ayman\Project\Code\C#\Socket\bin\Debug\Socket.exe.config
+D:\MSA\MSA\Semester 7\CS484 - Human Computer Interaction - Dr.Ayman\Project\Code\C#\Socket\bin\Debug\Socket.exe
+D:\MSA\MSA\Semester 7\CS484 - Human Computer Interaction - Dr.Ayman\Project\Code\C#\Socket\bin\Debug\Socket.pdb
+D:\MSA\MSA\Semester 7\CS484 - Human Computer Interaction - Dr.Ayman\Project\Code\C#\Socket\obj\Debug\Socket.exe
+D:\MSA\MSA\Semester 7\CS484 - Human Computer Interaction - Dr.Ayman\Project\Code\C#\Socket\obj\Debug\Socket.pdb
